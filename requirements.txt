@@ -1,0 +1,4 @@
+streamlit==1.25.0
+pillow==9.4.0
+PyPDF2==3.0.0
+groq==1.0.0  # Replace with the correct version of the Groq library if specified
